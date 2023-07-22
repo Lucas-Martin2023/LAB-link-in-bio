@@ -1,0 +1,20 @@
+section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+img {
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+body {
+  background-color: slategray;
+}
+
+h4, h6 {
+  text-align: center;
+}
